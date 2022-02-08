@@ -2,7 +2,8 @@
 
 ## Important Note!!
 
-You should have your real Spotify active during testing this clone 
+You should have your real Spotify active during testing this clone.
+Here's a quick [demo](https://www.loom.com/share/8ff7a3f743a24c9c96bef482ce6d2974) for testing this website
 
 # Next.js + Tailwind CSS Example
 
