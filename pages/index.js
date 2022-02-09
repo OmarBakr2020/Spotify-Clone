@@ -6,6 +6,10 @@ import Sidebar from '../components/Sidebar'
 export default function Home() {
   return (
     <div className="bg-black h-screen overflow-hidden">
+      <Head>
+        <title>Spotify</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <main className='flex'>
         <Sidebar />
         <Center />
