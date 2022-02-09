@@ -1,3 +1,4 @@
+import Head from 'next/head'
 import { getSession } from 'next-auth/react'
 import Center from '../components/Center'
 import Player from '../components/Player';
